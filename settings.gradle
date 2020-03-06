@@ -1,0 +1,2 @@
+rootProject.name='Commentify'
+include ':app'
